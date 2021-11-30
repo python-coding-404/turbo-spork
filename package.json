@@ -1,0 +1,22 @@
+{
+  "name": "turbo-spork",
+  "version": "1.0.0",
+  "description": "<style> * { \tbackground-color: black; }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/python-coding-404/turbo-spork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/python-coding-404/turbo-spork/issues"
+  },
+  "homepage": "https://github.com/python-coding-404/turbo-spork#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
